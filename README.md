@@ -12,3 +12,4 @@
 [`sketch.js`](./sketch.js)
 
 <데모>
+[손동작 LED 밝기 조절 영상 보기](demo/hand_gesture_demo_compressed.mp4)
